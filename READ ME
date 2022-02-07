@@ -1,0 +1,9 @@
+Description of the project:
+
+In this project, i emplemented an intelligent algorithm that detects the age range of a person in a picture. This project was done 
+using AI techniques such as knn - random forest - decision tree. The use of keras as well as openCV was used to detect the anthopometric
+facial features of a person in order to detect the age of that person. 
+
+Note: 
+As i cannot upload large files on github, the following google drive link will take you to the code:
+https://drive.google.com/drive/folders/1SIYjdrHcYQnk8UxsnkLL67nEg-LFKDzM?ths=true 
